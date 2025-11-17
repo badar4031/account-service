@@ -1,7 +1,7 @@
-package com.example.banking_integration_api.service;
+package com.example.accountservice.service;
 
-import com.example.banking_integration_api.model.Account;
-import com.example.banking_integration_api.repository.AccountRepository;
+import com.example.accountservice.model.Account;
+import com.example.accountservice.repository.AccountRepository;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.InjectMocks;
