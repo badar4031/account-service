@@ -1,6 +1,6 @@
-package com.example.banking_integration_api.repository;
+package com.example.accountservice.repository;
 
-import com.example.banking_integration_api.model.Account;
+import com.example.accountservice.model.Account;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

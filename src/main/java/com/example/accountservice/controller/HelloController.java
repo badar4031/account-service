@@ -1,4 +1,4 @@
-package com.example.banking_integration_api.controller;
+package com.example.accountservice.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

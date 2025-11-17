@@ -1,4 +1,4 @@
-package com.example.banking_integration_api.exception;
+package com.example.accountservice.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

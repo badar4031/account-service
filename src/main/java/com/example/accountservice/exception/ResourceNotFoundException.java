@@ -1,4 +1,4 @@
-package com.example.banking_integration_api.exception;
+package com.example.accountservice.exception;
 
 public class ResourceNotFoundException extends RuntimeException{
     public ResourceNotFoundException(String message){

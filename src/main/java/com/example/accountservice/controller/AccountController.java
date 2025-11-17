@@ -1,8 +1,8 @@
-package com.example.banking_integration_api.controller;
+package com.example.accountservice.controller;
 
-import com.example.banking_integration_api.exception.ResourceNotFoundException;
-import com.example.banking_integration_api.model.Account;
-import com.example.banking_integration_api.service.AccountService;
+import com.example.accountservice.exception.ResourceNotFoundException;
+import com.example.accountservice.model.Account;
+import com.example.accountservice.service.AccountService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

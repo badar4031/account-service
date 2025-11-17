@@ -1,8 +1,8 @@
-package com.example.banking_integration_api.service;
+package com.example.accountservice.service;
 
-import com.example.banking_integration_api.exception.ResourceNotFoundException;
-import com.example.banking_integration_api.model.Account;
-import com.example.banking_integration_api.repository.AccountRepository;
+import com.example.accountservice.exception.ResourceNotFoundException;
+import com.example.accountservice.model.Account;
+import com.example.accountservice.repository.AccountRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import java.util.*;
